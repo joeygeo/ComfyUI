@@ -1,0 +1,10 @@
+comfyui:
+    base_path: /mnt/ai_weights/weights
+    checkpoints: /mnt/ai_weights/weights/checkpoints/
+    clip: /mnt/ai_weights/weights/clip/
+    vae: /mnt/ai_weights/weights/vae/
+    loras: /mnt/ai_weights/weights/loras/
+    controlnet: /mnt/ai_weights/weights/controlnet/
+    diffusion_models: /mnt/ai_weights/weights/diffusion_models/
+    embeddings: /mnt/ai_weights/weights/embeddings/
+    upscale_models: /mnt/ai_weights/weights/upscale_models/
